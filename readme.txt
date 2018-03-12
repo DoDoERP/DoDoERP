@@ -1,6 +1,5 @@
-=== WP ERP - HRM, CRM & Accounting Solution For WordPress ===
-Contributors: tareq1988, wedevs, ediamin, sabbir1991, asaquzzaman, shawon786, manikmist09
-Donate Link: https://tareq.co/donate
+=== DoDoERP - HRM, CRM & Accounting Solution For WordPress ===
+Contributors: tareq1988, wedevs, ediamin, sabbir1991, asaquzzaman, shawon786, manikmist09, vassy
 Tags: ERP, CRM, HRM, Accounting, Project Management, business manager, small business, SME, contact, contacts, Customer Relationship Management, employee, leave management, hr, human resource management, job, jobs, job listing, lead management, opportunity, schedule, task, lead, holiday, company
 Requires at least: 4.4
 Tested up to: 4.9.4
@@ -15,7 +14,7 @@ An Open Source Human Resource, CRM & Accounting Solution for WordPress
 == Description ==
 
 = First Full-fledged Open Source ERP System for WordPress =
-WP ERP is the framework for weDevs's enterprise resource management system. This plugin includes -
+DoDoERP is the framework for weDevs's enterprise resource management system. This plugin includes -
 
 = Core Modules =
 
@@ -155,10 +154,10 @@ If you are unable to use any of the methods due to internet connectivity and fil
 = Can I use only one module (like- only HRM or CRM or Accounting)? =
 Yes, you definitely can! The whole plugin is divided into three parts- HR, CRM, Accounting based on features and the source code is separated for each module. So you can turn on/off any module you like from- “ERP Settings -> Modules.”
 
-= Can I Translate WP ERP? =
+= Can I Translate DoDoERP? =
 Yes, the plugin is fully translation ready. You can [translate the plugin](https://translate.wordpress.org/projects/wp-plugins/erp) if your language is missing.
 
-= Do you have any video tutorial on WP ERP? =
+= Do you have any video tutorial on DoDoERP? =
 Yes, we have some helpful videos on our [youtube channel](https://www.youtube.com/channel/UC7PaXj-qWPOM378L11QJyIQ).
 
 = How can I suggest for new features? =
@@ -168,7 +167,7 @@ We would love to hear your suggestions! Feel free to [submit them here](https://
 Yes, you can import employees, contacts via CSV file by just navigating to-
 “ERP Settings -> Tools -> Import”
 
-= Can I use WP ERP from the front end? =
+= Can I use DoDoERP from the front end? =
 You can use HR module from the frontend by using “HR Frontend” extension. The CRM & Accounting module does not have a frontend right now.
 
 = Is WP ERP capable to handle attendance? =
